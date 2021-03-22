@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">ListDemoApp</string>
+    <string name="retry" translatable="false">Retry</string>
+</resources>
